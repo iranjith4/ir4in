@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://ir4.in',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Ranjithkumar Matheswaran',
+  subtitle: 'Software Engineer / Traveler. Working as SDE Mobile at RadiusAgent. Swift | Objective C | iOS | Flutter',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,24 +25,24 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Ranjithkumar Matheswaran',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Engineer / Traveler. Working as SDE Mobile at RadiusAgent. Swift | Objective C | iOS | Flutter',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'r@ir4.in',
+      facebook: 'https://fb.com/iranjith4',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'https://twitter.com/iranjith4',
+      github: 'https://github.com/iranjith4',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'https://in.linkedin.com/in/iranjith4',
+      instagram: 'https://instagram.com/iranjith4',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: ''
+      youtube: 'https://youtube.com/iranjith4'
     }
   }
 };
