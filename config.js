@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://ir4.in',
   pathPrefix: '/',
   title: 'Ranjithkumar Matheswaran',
-  subtitle: 'Software Engineer / Traveler. Working as SDE Mobile at RadiusAgent. Swift | Objective C | iOS | Flutter',
+  subtitle: 'Senior Software Engineer - iOS, Radius Agent. Self thaught UI/UX Designer. Believes in Design + Engineering = Perfect product. \n \n Specialised in Swift, Obj C, iOS, Xcode, Analytics, Flutter, Sketch, Adobe XD, UI/UX, User Research.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -22,16 +22,20 @@ module.exports = {
     {
       label: 'Contact me',
       path: '/pages/contacts'
+    },
+    {
+      label: 'My work',
+      path: '/pages/mywork'
     }
   ],
   author: {
     name: 'Ranjithkumar Matheswaran',
     photo: '/photo.jpg',
-    bio: 'Software Engineer / Traveler. Working as SDE Mobile at RadiusAgent. Swift | Objective C | iOS | Flutter',
+    bio: 'Senior Software Engineer - iOS, Radius Agent. Self thaught UI/UX Designer. Believes in Design + Engineering = Perfect product. \n \n Specialised in Swift, Obj C, iOS, Xcode, Analytics, Flutter, Sketch, Adobe XD, UI/UX, User Research.',
     contacts: {
       email: 'r@ir4.in',
       facebook: 'iranjith4',
-      telegram: '#',
+      telegram: 'iranjith4',
       twitter: 'iranjith4',
       github: 'iranjith4',
       rss: '',
