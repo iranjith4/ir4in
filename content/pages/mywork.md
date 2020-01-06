@@ -3,7 +3,7 @@ title: "My Work"
 template: "page"
 ---
 
-Here are the work I did so far. 
+Here are the work I did so far.
 All my design works are at [Dribbble](https://dribbble.com/iranjith4) & [Behance](https://behance.net/iranjith4)
 
 Development 

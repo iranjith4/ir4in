@@ -27,19 +27,14 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
 
 
   const { edges } = data.allMarkdownRemark;
-  const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle;
+  const pageTitle = "Hello World 👋";
+  const pageContent = "This is Ranjith. <br><br> Currently working as Lead iOS Developer at <a href=\"https://radiusagent.com\" target=\"_blank\"> RadiusAgent</a>. Worked with startups, mid sized companies in building cool products. Heavy lifting iOS Developer, and have experience in developing 15+ native iOS apps. Sharp detailed  designer believes in bringing beautiful products with perfect marriage of design and development. Always believes in learning new things, which always helps in making a better product. <br> <br>At free time I love to travel around the places, watches Netflix, snaps photos, tweets, travels, plays table tennis and reads medium. An Apple fanatic."
 
   return (
-    <Layout title={pageTitle} description={siteSubtitle}>
+    <Layout title={"Ranjithkumar Matheswaran"} description={siteSubtitle}>
       <Sidebar isIndex />
-      <Page>
-        <Feed edges={edges} />
-        <Pagination
-          prevPagePath={prevPagePath}
-          nextPagePath={nextPagePath}
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
+      <Page title={pageTitle}>
+      <div dangerouslySetInnerHTML={{ __html: pageContent }} />
       </Page>
     </Layout>
   );
