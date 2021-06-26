@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://ir4.in',
   pathPrefix: '/',
   title: 'Ranjithkumar Matheswaran',
-  subtitle: 'Lead Software Engineer - iOS \n \n Self thaught UI/UX Designer. Believes in Design + Engineering = Perfect product. \n \n Specialised in Swift, Obj C, iOS, Xcode, Analytics, Flutter, Sketch, Adobe XD, UI/UX, User Research.',
+  subtitle: 'Lead Software Engineer - iOS. \n \n Self thought UI/UX Designer. Believes in Design + Engineering = Perfect product. \n \n Specialised in Swift, Obj C, iOS, Xcode, Analytics, Flutter, Sketch, Adobe XD, UI/UX, User Research.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 2,
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Ranjithkumar Matheswaran',
     photo: '/photo.jpg',
-    bio: 'Lead Software Engineer - iOS \n \n Self thaught UI/UX Designer. Believes in Design + Engineering = Perfect product. \n \n Specialised in Swift, Obj C, iOS, Xcode, Analytics, Flutter, Sketch, Adobe XD, UI/UX, User Research.',
+    bio: 'Lead Software Engineer - iOS. \n \n Self thought UI/UX Designer. Believes in Design + Engineering = Perfect product. \n \n Specialised in Swift, Obj C, iOS, Xcode, Analytics, Flutter, Sketch, Adobe XD, UI/UX, User Research.',
     contacts: {
       email: 'r@ir4.in',
       facebook: '',
