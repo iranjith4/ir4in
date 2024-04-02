@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Ranjithkumar Matheswaran',
     photo: '/photo.jpg',
-    bio: 'Lead Software Engineer - iOS. \n \n Self taught UI/UX Designer. Believes in Design + Engineering = Perfect product. \n \n Specialised in Swift, Obj C, iOS, Xcode, Analytics, Flutter, Sketch, Adobe XD, UI/UX, User Research.',
+    bio: 'Experienced iOS Lead Software Engineer with a passion for self-taught UI/UX design. Firmly believes in the synergy of Design and Engineering to craft impeccable products. Proficient in Swift, Objective-C, iOS development, Xcode, analytics integration, Flutter, Sketch, Adobe XD, UI/UX design, and user research methodologies.',
     contacts: {
       email: 'r@ir4.in',
       facebook: '',
