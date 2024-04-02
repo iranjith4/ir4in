@@ -28,7 +28,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
 
   const { edges } = data.allMarkdownRemark;
   const pageTitle = "Hello World 👋";
-  const pageContent = "This is Ranjith. <br><br> Currently working as Lead iOS Developer at <a href=\"https://radiusagent.com\" target=\"_blank\"> RadiusAgent</a>. Worked with startups, mid sized companies in building cool products. Heavy lifting iOS Developer, and have experience in developing 15+ native iOS apps. Sharp detailed  designer believes in bringing beautiful products with perfect marriage of design and development. Always believes in learning new things, which always helps in making a better product. <br> <br>At free time I love to travel around the places, watches Netflix, snaps photos, tweets, travels, plays table tennis and reads medium. An Apple fanatic."
+  const pageContent = "Currently working as the Tech Lead (Mobile) at <a href=\"https://radiusagent.com\" target=\"_blank\">RadiusAgent</a>. <br><br>With a background spanning startups and mid-sized companies, I excel in crafting innovative products. As a seasoned iOS Developer, I have contributed to over 15 native iOS applications, showcasing my expertise in the field. With a keen eye for detail, I'm passionate about harmonizing design and development to deliver visually stunning products. Committed to continuous learning, I embrace new challenges to enhance product quality.<br><br>During my leisure, I enjoy exploring new destinations, photography, tweeting, and traveling. Unabashedly devoted to all things Apple."
 
   return (
     <Layout title={"Ranjithkumar Matheswaran"} description={siteSubtitle}>
